@@ -1,9 +1,9 @@
 # A awesome Food Shop App with React-Tailwindcss
 ### It's a Full Mobile Responsive App
 
-### Go to Live Project: https://travel1-react-tailwined-app.netlify.app/
+### Go to Live Project: https://food-shop-app-react-tailwined.netlify.app/
 
-[![image](./src/image.JPG)](https://travel1-react-tailwined-app.netlify.app/)
+[![image](./src/image.JPG)](https://food-shop-app-react-tailwined.netlify.app/)
 
 ### It's a Full Mobile Responsive Web Page
 
